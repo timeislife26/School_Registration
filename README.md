@@ -1,0 +1,1 @@
+The aim of the project was to create an application that stores student records at MTU; the records consist of information about each student and information about the modules they have completed including the grades they achieved using JavaFX
